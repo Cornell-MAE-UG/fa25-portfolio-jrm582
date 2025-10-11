@@ -1,70 +1,45 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Jacob McNamara - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Curriculum Vitae.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jrm582@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +848 242 6425
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical properties of materials Passionate about nuclear fusion and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Engineering in Materials Science and Engineering*  
+  GPA: 3.3/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Colts Neck High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Technical Skills:** Microsoft Word, Excel, PowerPoint, Wet Lab  
+- **Soft Skills:** Leadership, Teamwork, Conflict Resolution, Independent Study 
+- **Certifications:** AED, CPR & First Aid Certified 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **New Jersey Resources - Intern**  
+  [June, 2025] - [August, 2025]  
+  -Supported daily field operations related to natural gas distribution systems, including atmospheric corrosion inspection, maintenance, and data collection.
+  - Observed and documented field installation and repair of gas infrastructure under the supervision of senior engineers.
 
 ---
 
