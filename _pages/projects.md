@@ -1,18 +1,9 @@
 ---
-layout: default
-title: Jacob McNamara - Portfolio
-permalink: /projects/
+layout: project
+title: 2025 Statics Design Problem
+description: Designing a statics mechanism
+technologies: 
+image: /assets/images/Sketch.jpg
 ---
-<div class="gallery-container">
-<div class="project-gallery">
-    {% for project in site.projects %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project._pages/Statics | relative_url }}" alt="{{ project.Statics }}" />
-          <p>{{ project.Statics}}</p>
-        </a>
-      </div>
-    {% endfor %}
-</div>
-</div>
-<a href="{{ "/projects/" | relative_url }}">my projects</a>
+![Photo of solution]({{ "/assets/images/Sketch.jpg" | relative_url }}){: .inline-image-l}
+For this project I designed a simple mechanism that was able to lift the maximum weight possible given certain restrictions
