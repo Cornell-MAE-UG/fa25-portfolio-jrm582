@@ -1,16 +1,8 @@
 ---
-layout: default
+layout: project
+title: 2025 Statics Design Problem
+description: Designing a statics mechanism
+technologies: 
+image: /assets/images/radio-machine-cad.jpg
 ---
-
-<h1>{{ page.title }}</h1>
-
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
-
-{{ content }}
-
-<p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
-
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
-    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
-</a>
-![Sketch]({{ "assets/images/Sketch.jpg" | relative_url }}){: class="project-image"}
+![Photo of solution]({{ "/assets/images/Sketch.jpg" | relative_url }}){: .inline-image-l}
