@@ -15,3 +15,4 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
+<a href="{{ "/projects/" | relative_url }}">my projects</a>
