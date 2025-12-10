@@ -9,7 +9,7 @@ permalink: /projects/
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
           <img src="{{ project._pages/Statics | relative_url }}" alt="{{ project.Statics }}" />
-          <p>{{ project.title}}</p>
+          <p>{{ project.Statics}}</p>
         </a>
       </div>
     {% endfor %}
