@@ -6,4 +6,4 @@ technologies:
 image: /assets/images/Sketch.jpg
 ---
 ![Photo of solution]({{ "/assets/images/Sketch.jpg" | relative_url }}){: .inline-image-l}
-For this project
+For this project I designed a simple mechanism that was able to lift the maximum weight possible given certain restrictions
