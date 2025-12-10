@@ -16,3 +16,4 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
+<img src="assets/images/Sketch.jpg" width="500" />
