@@ -3,6 +3,7 @@ layout: default
 title: Jacob McNamara - Portfolio
 permalink: /projects/
 ---
+<img src="assets/images/Sketch.jpg" width="500" />
 
 <div class="gallery-container">
 <div class="project-gallery">
@@ -16,4 +17,3 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
-<img src="assets/images/Sketch.jpg" width="500" />
